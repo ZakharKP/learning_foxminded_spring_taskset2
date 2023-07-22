@@ -1,0 +1,8 @@
+"1" to Find all groups with less or equal students’ number
+"2" to Find all students related to the course with the given name
+"3" to Add a new student
+"4" to Delete a student by the student_id
+"5" to Add a student to the course (from a list)
+"6" to Remove the student from one of their courses.
+"7" to See that menu again.
+"8" to Exit
