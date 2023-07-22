@@ -1,4 +1,4 @@
-# Task2 - Console App
+# Task 2 - Console App
 
 This repository contains my solutions for the Console App task set of the Java Spring Development course. The tasks in this set focus on building a console application for a school management system using Java, Spring Boot, JDBC, and Hibernate.
 
